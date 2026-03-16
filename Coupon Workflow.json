@@ -159,7 +159,7 @@
             {
               "id": "52bfd593-eef3-445d-8f5e-1fe17a49368e",
               "name": "notificationEmail",
-              "value": "shiva.ds973@gmail.com",
+              "value": "admin@example.com (replace with your admin email)",
               "type": "string"
             },
             {
